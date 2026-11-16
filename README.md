@@ -1,5 +1,4 @@
-# ⚡ Hand Vision: Jujutsu Kaisen Cursed Techniques & Domain Expansion Engine
-
+# ⚡ Hand Vision: Jujutsu Kaisen Cursed Techniques 
 An advanced, real-time Computer Vision & Procedural Animation System built with **MediaPipe Tasks API**, **OpenCV**, **NumPy**, and **Sounddevice**.
 
 This project turns your webcam into an interactive Jujutsu Kaisen cursed energy engine, featuring precise hand-gesture recognition, 1-Euro adaptive tracking, 3D perspective physics, zero-latency procedural anime sound synthesis, and immersive domain expansion visual effects.
